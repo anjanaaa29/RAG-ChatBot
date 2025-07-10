@@ -16,6 +16,7 @@ faiss-cpu
 # PDF/Text processing
 pypdf
 python-docx
+PyMuPDF
 
 # Frontend
 streamlit
