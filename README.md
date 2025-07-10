@@ -19,23 +19,6 @@ LangChain — orchestration
 FAISS — vector store
 Groq — LLM provider
 
-📄 Project Structure
-graphql
-Copy code
-RAG-ChatBot/
-├── data/                # Optional sample data
-├── faiss_index/         # FAISS index files
-├── src/                 # Backend logic & utilities
-│   ├── config.py        # Configurations (API keys, settings)
-│   └── ...              # Other helper modules
-├── uploaded_files/      # Uploaded documents (runtime)
-├── main.py              # FastAPI backend entry point
-├── frontend.py          # Streamlit app
-├── README.md            # You are here!
-└── requirements.txt     # Python dependencies
-⚙️ Setup & Run
-
-
 1️⃣ Clone the repo
 bash
 Copy code
