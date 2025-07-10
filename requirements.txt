@@ -9,6 +9,7 @@ langchain
 langchain-community
 langchain-core
 langchain-groq
+langchain-huggingface
 
 # Embeddings & Vector DB
 faiss-cpu
