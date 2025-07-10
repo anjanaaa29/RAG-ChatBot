@@ -14,6 +14,8 @@ langchain-huggingface
 # Embeddings & Vector DB
 faiss-cpu
 
+sentence-transformers>=2.2.0
+
 # PDF/Text processing
 pypdf
 python-docx
