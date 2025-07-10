@@ -1,30 +1,26 @@
-# Backend
-fastapi
-uvicorn
-pydantic
+# 📝 Core
 python-dotenv
 
-# LangChain & LLMs
+# 🔗 LangChain & LLMs
 langchain
 langchain-community
 langchain-core
 langchain-groq
 langchain-huggingface
 
-# Embeddings & Vector DB
+# 🔍 Embeddings & Vector DB
 faiss-cpu
+sentence-transformers  # required by langchain-huggingface
 
-sentence-transformers>=2.2.0
-
-# PDF/Text processing
+# 📄 PDF/Text processing
 pypdf
 python-docx
 PyMuPDF
 
-# Frontend
+# 🎨 Frontend
 streamlit
 streamlit-chat
 requests
 
-# Optional (if you use Jupyter for testing)
+# Optional (if you use Jupyter locally for testing)
 notebook
